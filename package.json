@@ -1,0 +1,22 @@
+{
+  "name": "book-store",
+  "version": "0.0.1",
+  "description": "online book sale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RandikaVishwa/bookstore.git"
+  },
+  "author": "Randika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RandikaVishwa/bookstore/issues"
+  },
+  "homepage": "https://github.com/RandikaVishwa/bookstore#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
